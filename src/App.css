@@ -1,0 +1,10 @@
+i {
+  color: black;
+  font-size: 40px;
+  width: 100%;
+  top: 10px;
+  left: 10px;
+}
+i::before {
+  cursor: pointer;
+}
